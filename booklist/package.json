@@ -1,0 +1,10 @@
+{
+  "name": "booklist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jacob Dymond <devdymond@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^1.15.3"
+  }
+}
